@@ -1,5 +1,6 @@
 import "dotenv/config";
 import "@nomicfoundation/hardhat-ethers";
+import "@nomicfoundation/hardhat-verify";
 
 export default {
   solidity: "0.8.20",
